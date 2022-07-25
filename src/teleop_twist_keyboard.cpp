@@ -2,6 +2,7 @@
 #include <geometry_msgs/Twist.h>
 
 #include <stdio.h>
+#include <stdio_ext.h>
 #include <unistd.h>
 #include <termios.h>
 
